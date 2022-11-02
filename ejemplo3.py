@@ -1,6 +1,6 @@
 def ordenar():
     #Se crea una lista
-    arr = [ 5, 3, 4, 8, 7, 5, 1, 2, 3]
+    arr = [ 40, 8, 5, 20, 1]
 
     #El primer ciclo itera desde el principio hasta el final 
     for i in range(len(arr)): 

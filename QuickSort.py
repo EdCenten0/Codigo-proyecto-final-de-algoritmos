@@ -1,5 +1,3 @@
-# Traduccion de pseint 
-
 if __name__ == '__main__':
 	# Se definen las variables a utilizar
 	num = 0
